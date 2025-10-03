@@ -1,0 +1,187 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = drippy_loading_overlay
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1758803980084
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:a0287414-0227-49f5-bea3-1be645de4911-1758803886473] = [groups:][instances:]
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = true
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+  show_screen_background_overlay_on_custom_background = false
+  apply_vanilla_background_blur = false
+}
+
+layout_action_executable_blocks {
+}
+
+element {
+  source = [source:local]/config/fancymenu/assets/logos/us_erisprojectlogo.png
+  repeat_texture = false
+  nine_slice_texture = false
+  nine_slice_texture_border_x = 5
+  nine_slice_texture_border_y = 5
+  image_tint = #FFFFFF
+  element_type = image
+  instance_identifier = 276c0e59-7f95-4b15-ad00-dc9f6dd64743-1754811024171
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1600
+  auto_sizing_base_screen_height = 830
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -130
+  y = -101
+  width = 260
+  height = 157
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = bdda47f9-0b24-43d4-83d6-06253158af7c-1754811024171
+  [loading_requirement_container_meta:bdda47f9-0b24-43d4-83d6-06253158af7c-1754811024171] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity_v2 = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 2ed066f5-50c8-48b1-bc38-e417bdb9eb32-1754810452193
+  [executable_block:2ed066f5-50c8-48b1-bc38-e417bdb9eb32-1754810452193][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 7f64b2b1-5a4f-49a5-95a5-a54fe5fb2f82-1754810452193
+  [loading_requirement_container_meta:7f64b2b1-5a4f-49a5-95a5-a54fe5fb2f82-1754810452193] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
+  element_type = vanilla_button
+  instance_identifier = progress_bar
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = true
+  auto_sizing_base_screen_width = 1600
+  auto_sizing_base_screen_height = 830
+  sticky_anchor = false
+  anchor_point = vanilla
+  x = 193
+  y = 340
+  width = 414
+  height = 10
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 9bcfc17a-011c-49b8-8cf5-05d48f8c0b20-1754810452193
+  [loading_requirement_container_meta:9bcfc17a-011c-49b8-8cf5-05d48f8c0b20-1754810452193] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity_v2 = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
+  is_hidden = false
+  automated_button_clicks = 0
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = f3092e6d-455a-46df-b6b1-ff972440ecb3-1754810452193
+  [executable_block:f3092e6d-455a-46df-b6b1-ff972440ecb3-1754810452193][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  navigatable = true
+  widget_active_state_requirement_container_identifier = f515ccd1-0441-40da-a922-7a63d8a231f7-1754810452193
+  [loading_requirement_container_meta:f515ccd1-0441-40da-a922-7a63d8a231f7-1754810452193] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
+  element_type = vanilla_button
+  instance_identifier = mojang_logo
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1600
+  auto_sizing_base_screen_height = 830
+  sticky_anchor = false
+  anchor_point = vanilla
+  x = 193
+  y = 156
+  width = 414
+  height = 102
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = bc733a00-daf3-45e1-a388-b6b8fb29c2f9-1754810452193
+  [loading_requirement_container_meta:bc733a00-daf3-45e1-a388-b6b8fb29c2f9-1754810452193] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity_v2 = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
+  is_hidden = true
+  automated_button_clicks = 0
+}
+

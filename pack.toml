@@ -1,0 +1,13 @@
+name = "ErisModpack"
+author = "Menma736-wh0isalexzero"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c199385a66ca11f14b257b9fed3c21edd69729ed8819473d98f62f48fde9cfde"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"
