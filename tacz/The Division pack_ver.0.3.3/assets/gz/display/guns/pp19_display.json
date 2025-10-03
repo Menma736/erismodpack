@@ -1,0 +1,107 @@
+{
+  "model": "gz:gun/pp19_geo",
+  "texture": "gz:gun/uv/pp19",
+  "lod": {
+    "model": "gz:gun/pp19",
+    "texture": "gz:gun/pp19"
+  },
+  "hud": "gz:gun/hud/pp19",
+  "slot": "gz:gun/slot/pp19",
+  "animation": "gz:pp19",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [
+        0.6,
+        0.6,
+        0.6
+      ],
+      "ground": [
+        0.6,
+        0.6,
+        0.6
+      ],
+      "fixed": [
+        1.2,
+        1.2,
+        1.2
+      ]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "tacz:flash/common_muzzle_flash",
+    "scale": 0.6
+  },
+  "shell": {
+    "initial_velocity": [
+      5,
+      2,
+      1
+    ],
+    "random_velocity": [
+      1,
+      1,
+      0.25
+    ],
+    "acceleration": [
+      0.0,
+      -10,
+      0.0
+    ],
+    "angular_velocity": [
+      360,
+      -1200,
+      90
+    ],
+    "living_time": 1.0
+  },
+  "sounds": {
+    "shoot": "gz:pp19/pp19_shoot",
+    "shoot_3p": "gz:pp19/pp19_shoot_3p",
+    "reload_empty": "",
+    "reload_tactical": "",
+    "inspect": "",
+    "inspect_empty": "",
+    "draw": "tacz:hk_mp5a5/hk_mp5a5_draw",
+    "put_away": "tacz:hk_mp5a5/hk_mp5a5_put_away",
+    "silence": "gz:pp19/pp19_silence",
+    "silence_3p": "tacz:pp19/pp19_silence_3p"
+  },
+  "offhand_show": {
+    "pos": [
+      1,
+      20,
+      4
+    ],
+    "rotate": [
+      0,
+      0,
+      45
+    ],
+    "scale": [
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [
+        1,
+        16,
+        -2
+      ],
+      "rotate": [
+        0,
+        0,
+        20
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    }
+  }
+}

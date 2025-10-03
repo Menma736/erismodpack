@@ -1,0 +1,8 @@
+{
+	"name": "trisdyna.attachment.sight_tris_eosl.name",
+	"tooltip": "trisdyna.attachment.sight_tris_eosl.tooltip",
+	"display": "trisdyna:sight_tris_eosl_display",
+	"data": "trisdyna:sight_tris_eosl_data",
+	"type": "scope",
+	"sort": 24040
+}

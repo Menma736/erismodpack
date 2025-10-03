@@ -1,0 +1,27 @@
+{
+  "slot": "sfms:ammo/slot/12ap",
+  "shell": {
+    "model": "tacz:shell/12g_shell",
+    "texture": "sfms:shell/12ap_shell"
+  },
+  "tracer_color": "#FF3030",
+  "transform": {
+    "scale": {
+      "thirdperson": [
+        0.6,
+        0.6,
+        0.6
+      ],
+      "ground": [
+        0.6,
+        0.6,
+        0.6
+      ],
+      "fixed": [
+        1.2,
+        1.2,
+        1.2
+      ]
+    }
+  }
+}

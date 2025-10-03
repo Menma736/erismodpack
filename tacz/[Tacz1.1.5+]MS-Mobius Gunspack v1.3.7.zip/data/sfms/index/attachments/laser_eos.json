@@ -1,0 +1,8 @@
+{
+	"name": "sfms.attachment.laser_eos.name",
+	"tooltip": "sfms.attachment.laser_eos.tooltip",
+	"display": "sfms:laser_eos_display",
+	"data": "sfms:laser_x2_data",
+	"type": "laser",
+    "sort": 24080
+}

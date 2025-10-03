@@ -1,0 +1,6 @@
+{
+  "name": "sfms.ammo.12ap.name",
+  "display": "sfms:12ap_display",
+  // 堆叠数量
+  "stack_size": 40
+}

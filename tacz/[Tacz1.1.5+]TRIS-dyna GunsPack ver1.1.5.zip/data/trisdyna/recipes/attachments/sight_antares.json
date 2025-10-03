@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:redstone"
+      },
+      "count": 30
+    },
+    {
+      "item": {
+        "item": "minecraft:glass"
+      },
+      "count": 24
+    },
+    {
+      "item": {
+        "item": "minecraft:gold_ingot"
+      },
+      "count": 16
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "trisdyna:sight_antares"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

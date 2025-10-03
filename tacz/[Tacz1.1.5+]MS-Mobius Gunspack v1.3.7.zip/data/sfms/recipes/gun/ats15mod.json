@@ -1,0 +1,57 @@
+{
+  "materials": [
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:modern_kinetic_gun",
+        "nbt": {
+          "GunId": "sfms:ats15"
+        }
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:modern_kinetic_gun",
+        "nbt": {
+          "GunId": "sfms:sbr15"
+        }
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:attachment",
+        "nbt": {
+          "AttachmentId": "sfms:grip_ats15only"
+        }
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "minecraft:nether_star"
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 120
+    },
+    {
+      "item": {
+        "tag": "forge:gems/diamond"
+      },
+      "count": 16
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "sfms:ats15mod"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

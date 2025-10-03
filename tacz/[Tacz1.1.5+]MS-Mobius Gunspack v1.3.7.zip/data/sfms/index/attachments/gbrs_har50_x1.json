@@ -1,0 +1,8 @@
+{
+	"name": "sfms.attachment.gbrs_har50_x1.name",
+	"tooltip": "sfms.attachment.gbrs_har50_x1.tooltip",
+	"display": "sfms:gbrs_har50_x1_display",
+	"data": "sfms:gbrs_har50_x1_data",
+	"type": "scope",
+    "sort": 24080
+}

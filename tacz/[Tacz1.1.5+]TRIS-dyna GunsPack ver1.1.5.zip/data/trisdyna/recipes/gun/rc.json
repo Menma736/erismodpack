@@ -1,0 +1,52 @@
+{
+  "materials": [
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:modern_kinetic_gun",
+        "nbt": {
+          "GunId": "trisdyna:tris_sf7e"
+        }
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:ammo",
+        "nbt": {
+          "AmmoId": "trisdyna:emx_b3"
+        }
+      },
+      "count": 30
+    },
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:ammo",
+        "nbt": {
+          "AmmoId": "trisdyna:tris_core"
+        }
+      },
+      "count": 60
+    },
+    {
+      "item": {
+        "item": "minecraft:netherite_ingot"
+      },
+      "count": 20
+    },
+    {
+      "item": {
+        "item": "minecraft:iron_ingot"
+      },
+      "count": 200
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "trisdyna:rc",
+    "ammo_count": 1
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

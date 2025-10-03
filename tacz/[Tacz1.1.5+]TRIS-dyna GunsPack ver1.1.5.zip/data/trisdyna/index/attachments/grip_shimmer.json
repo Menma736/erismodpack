@@ -1,0 +1,8 @@
+{
+  "name": "trisdyna.attachment.grip_shimmer.name",
+  "tooltip": "trisdyna.attachment.grip_shimmer.tooltip",
+  "display": "trisdyna:grip_shimmer_display",
+  "data": "trisdyna:grip_shimmer_data",
+  "type": "grip",
+  "sort": 24040
+}

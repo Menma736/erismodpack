@@ -1,0 +1,64 @@
+{
+    "model": "sfms:gun/nitro_505_geo",
+    "texture": "sfms:gun/uv/nitro_505",
+    //"lod": {
+    //    "model": "lradd:gun/lod/nitro_505_lod",
+    //    "texture": "lradd:gun/lod/nitro_505_lod"
+    //},
+    "hud": "sfms:gun/hud/nitro_505",
+    "slot": "sfms:gun/slot/nitro_505",
+    "animation": "sfms:nitro_505",
+    "use_default_animation": "rifle",
+    "third_person_animation": "default",
+    "transform": {
+        "scale": {
+            "thirdperson": [0.5, 0.5, 0.5],
+            "ground": [0.45, 0.45, 0.45],
+            "fixed": [1, 1, 1]
+        }
+    },
+  // 子弹相关渲染参数。ammo display 里也有，但是会被这里的参数覆盖掉
+  "ammo": {
+    // 曳光弹颜色，没有则为 #FFFFFF，没有此字段时，会调用 ammo 的相关字段
+    // 严格遵循 RGB 颜色代码
+    "tracer_color": "#FF7900",
+    // 粒子效果，部分参数和原版指令完全一致，具体可参考 wiki：https://minecraft.fandom.com/zh/wiki/%E5%91%BD%E4%BB%A4/particle
+    // 没有此字段时，会调用 ammo 的相关字段
+        "particle": {
+    //      // 名称，具体可选粒子可参考 wiki：https://minecraft.fandom.com/zh/wiki/%E7%B2%92%E5%AD%90
+          "name": "crit",
+    //      // 生成的区域，默认为 0 0 0
+          "delta": [
+            0,
+            0,
+            0
+          ],
+    //      // 速度，默认为0，必须至少为 0
+          "speed": 0,
+    //      // 粒子存在时间，单位 tick，默认为 20 tick
+          "life_time": 5,
+    //      // 粒子数量，当子弹速度过快时，可以增大此数量，能够填满子弹路径的空隙
+          "count": 6
+        }
+  },
+    "shell": {
+        "initial_velocity": [8.0, 5.0, -0.5],
+        "random_velocity": [2.5, 1.5, 0.25],
+        "acceleration": [0.0, -20, 0.0],
+        "angular_velocity": [720, 720, 90],
+        "living_time": 1.0
+    },
+    "sounds": {
+        "shoot": "sfms:sfms_guns/nui_shoot1",
+        "silence": "sfms:item/nitro_505_fire_s",
+        "reload_empty": "sfms:item/nitro_505_reload",
+        "reload_tactical": "sfms:item/nitro_505_reload",
+        "inspect": "sfms:item/nitro_505_inspect",
+        "inspect_empty": "sfms:item/nitro_505_inspect_empty",
+        "draw": "sfms:item/nitro_505_draw",
+        "put_away": "sfms:item/nitro_505_put_away",
+		"head_hit": "sfms:sfms_guns/awmmog1",
+		"flesh_hit": "sfms:sfms_guns/awmmog2",
+        "shoot_3p": "sfms:item/nitro_505_shoot_3p"
+    }
+}

@@ -1,0 +1,46 @@
+{
+  "show_crosshair": "true",
+  "model": "sfms:gun/emergency_baton_geo",
+  "texture": "sfms:gun/uv/emergency_baton",
+  "lod": {
+    "model": "sfms:gun/lod/emergency_baton_geo",
+    "texture": "sfms:gun/uv/emergency_baton"
+  },
+  "hud": "sfms:gun/hud/emergency_baton",
+  "slot": "sfms:gun/slot/emergency_baton",
+  "animation": "sfms:emergency_baton",
+  "use_default_animation": "rifle",
+  "damage_style": "total",
+  "third_person_animation": "default",
+  "iron_zoom": 1,
+  "state_machine": "sfms:bamboo_mk1_state_machine",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "sounds": {
+    "dry_fire": "sfms:misc/empty",
+    "fire_select": "sfms:misc/empty",
+    "flesh_hit": "sfms:batons_huida1",
+    "shoot_3p": "sfms:bamboo_mk1/melee_3p",
+    "kill": "sfms:batons_huida3",
+    "melee_push": "sfms:misc/empty",
+    "head_hit": "sfms:batons_huida2",
+    "melee_stock": "sfms:misc/empty"
+  },
+  "offhand_show": {
+    "pos": [1, 19, 4],
+    "rotate": [0, 0, 50],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [-1, 19, 3],
+      "rotate": [-180, 0, 130],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

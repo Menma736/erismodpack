@@ -1,0 +1,9 @@
+{
+    "name": "trisdyna.gun.omerta.name",
+    "display": "trisdyna:omerta_display",
+    "tooltip": "trisdyna.omerta.desc",
+    "data": "trisdyna:omerta_data",
+	//mg，sniper，rifle，pistol，smg，rpg
+    "type": "rifle",
+    "sort": 24040
+}

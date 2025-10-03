@@ -1,0 +1,8 @@
+{
+	"name": "sfms.attachment.grip_zsxw.name",
+	"tooltip": "sfms.attachment.grip_zsxw.tooltip",
+	"display": "sfms:grip_zsxw_display",
+	"data": "sfms:grip_zsxw_data",
+	"type": "grip",
+    "sort": 24080
+}

@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 36
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 105
+    },
+    {
+      "item": {
+        "item": "minecraft:magma_cream"
+      },
+      "count": 6
+    },
+    {
+      "item": {
+        "tag": "forge:rods/blaze"
+      },
+      "count": 20
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "sfms:felix_12dg"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

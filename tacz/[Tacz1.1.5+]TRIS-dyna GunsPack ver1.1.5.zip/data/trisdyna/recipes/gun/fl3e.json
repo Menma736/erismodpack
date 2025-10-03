@@ -1,0 +1,48 @@
+{
+  "materials": [
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:ammo",
+        "nbt": {
+          "AmmoId": "trisdyna:emx_b1"
+        }
+      },
+      "count": 6
+    },
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:modern_kinetic_gun",
+        "nbt": {
+          "GunId": "trisdyna:fl00"
+        }
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "minecraft:redstone_block"
+      },
+      "count": 3
+    },
+    {
+      "item": {
+        "item": "minecraft:iron_ingot"
+      },
+      "count": 25
+    },
+    {
+      "item": {
+        "item": "minecraft:glass"
+      },
+      "count": 24
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "trisdyna:fl3e",
+    "ammo_count": 220
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

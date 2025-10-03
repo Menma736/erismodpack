@@ -1,0 +1,7 @@
+{
+    "name": "gz.gun.arx200_nero.name",
+    "display": "gz:arx200_nero_display",
+    "data": "gz:arx200_nero_data",
+    "tooltip": "gz.arx200_nero.desc",
+    "type": "rifle"
+}

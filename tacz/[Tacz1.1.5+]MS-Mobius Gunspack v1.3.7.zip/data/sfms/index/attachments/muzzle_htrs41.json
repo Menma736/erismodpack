@@ -1,0 +1,8 @@
+{
+	"name": "sfms.attachment.muzzle_htrs41.name",
+	"tooltip": "sfms.attachment.muzzle_htrs41.tooltip",
+	"display": "sfms:muzzle_htrs41_display",
+	"data": "sfms:muzzle_htrs_data",
+	"type": "muzzle",
+    "sort": 24080
+}

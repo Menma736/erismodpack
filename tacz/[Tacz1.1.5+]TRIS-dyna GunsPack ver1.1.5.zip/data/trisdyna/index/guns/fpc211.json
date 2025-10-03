@@ -1,0 +1,9 @@
+{
+    "name": "trisdyna.gun.fpc211.name",
+    "display": "trisdyna:fpc211_display",
+    "tooltip": "trisdyna.fpc211.desc",
+    "data": "trisdyna:fpc211_data",
+	//mg，sniper，rifle，pistol，smg，rpg，shotgun
+    "type": "shotgun",
+    "sort": 24040
+}

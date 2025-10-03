@@ -1,0 +1,8 @@
+{
+  "name": "sfms.gun.umax100.name",
+  "tooltip": "sfms.gun.umax100.desc",
+  "display": "sfms:umax100_display",
+  "data": "sfms:umax100_data",
+  "type": "mg",
+  "sort": 24080
+}

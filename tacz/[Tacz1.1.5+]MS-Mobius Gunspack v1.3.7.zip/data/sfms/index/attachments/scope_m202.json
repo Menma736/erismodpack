@@ -1,0 +1,8 @@
+{
+	"name": "sfms.attachment.scope_m202.name",
+	"tooltip": "sfms.attachment.scope_m202.tooltip",
+	"display": "sfms:scope_m202_display",
+	"data": "sfms:scope_m202_data",
+	"type": "scope",
+    "sort": 24080
+}

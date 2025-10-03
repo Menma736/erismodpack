@@ -1,0 +1,8 @@
+{
+	"name": "sfms.attachment.sfcb_se.name",
+	"tooltip": "sfms.attachment.sfcb_se.tooltip",
+	"display": "sfms:sfcb_se_display",
+	"data": "sfms:sfcb_ap_data",
+	"type": "extended_mag",
+    "sort": 24080
+}

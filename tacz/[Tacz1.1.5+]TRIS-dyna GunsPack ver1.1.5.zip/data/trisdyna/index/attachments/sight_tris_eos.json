@@ -1,0 +1,8 @@
+{
+	"name": "trisdyna.attachment.sight_tris_eos.name",
+	"tooltip": "trisdyna.attachment.sight_tris_eos.tooltip",
+	"display": "trisdyna:sight_tris_eos_display",
+	"data": "trisdyna:sight_tris_eos_data",
+	"type": "scope",
+	"sort": 24040
+}

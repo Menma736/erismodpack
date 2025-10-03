@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:netherite_ingot"
+      },
+      "count": 3
+    },
+    {
+      "item": {
+        "item": "minecraft:tnt"
+      },
+      "count": 16
+    },
+    {
+      "item": {
+        "item": "minecraft:coal"
+      },
+      "count": 40
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "sfms:sfcb_he"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

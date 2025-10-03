@@ -1,0 +1,8 @@
+{
+	"name": "trisdyna.attachment.sight_aurora.name",
+	"tooltip": "trisdyna.attachment.sight_aurora.tooltip",
+	"display": "trisdyna:sight_aurora_display",
+	"data": "trisdyna:sight_aurora_data",
+	"type": "scope",
+	"sort": 24040
+}

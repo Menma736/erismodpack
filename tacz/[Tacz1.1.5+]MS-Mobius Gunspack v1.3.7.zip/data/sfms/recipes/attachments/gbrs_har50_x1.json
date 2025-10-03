@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:redstone"
+      },
+      "count": 24
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/netherite"
+      },
+      "count": 3
+    },
+    {
+      "item": {
+        "item": "minecraft:iron_ingot"
+      },
+      "count": 28
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "sfms:gbrs_har50_x1"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

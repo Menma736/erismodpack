@@ -1,0 +1,7 @@
+{
+    "name": "gz.gun.cargo_terminal.name",
+    "tooltip": "gz.cargo_terminal.desc",
+    "display": "gz:cargo_terminal_display",
+    "data": "gz:cargo_terminal_data",
+    "type": "shotgun"
+}

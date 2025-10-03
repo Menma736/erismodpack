@@ -1,0 +1,9 @@
+{
+    "name": "trisdyna.gun.fs2000.name",
+    "display": "trisdyna:fs2000_display",
+    "tooltip": "trisdyna.fs2000.desc",
+    "data": "trisdyna:fs2000_data",
+	//mg，sniper，rifle，pistol，smg，rpg
+    "type": "sniper",
+    "sort": 24040
+}

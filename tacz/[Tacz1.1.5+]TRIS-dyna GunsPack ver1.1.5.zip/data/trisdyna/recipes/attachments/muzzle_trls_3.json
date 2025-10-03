@@ -1,0 +1,57 @@
+{
+  "materials": [
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:attachment",
+        "nbt": {
+          "AttachmentId": "trisdyna:muzzle_trls_1"
+        }
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:attachment",
+        "nbt": {
+          "AttachmentId": "trisdyna:muzzle_trls_2"
+        }
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:ammo",
+        "nbt": {
+          "AmmoId": "trisdyna:tris_core"
+        }
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "item": "minecraft:redstone"
+      },
+      "count": 30
+    },
+    {
+      "item": {
+        "item": "minecraft:glass"
+      },
+      "count": 30
+    },
+    {
+      "item": {
+        "item": "minecraft:iron_ingot"
+      },
+      "count": 30
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "trisdyna:muzzle_trls_3"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

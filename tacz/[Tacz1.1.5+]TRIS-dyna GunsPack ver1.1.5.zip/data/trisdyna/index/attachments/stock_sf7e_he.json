@@ -1,0 +1,8 @@
+{
+  "name": "trisdyna.attachment.stock_sf7e_he.name",
+  "tooltip": "trisdyna.attachment.stock_sf7e_he.tooltip",
+  "display": "trisdyna:stock_sf7e_he_display",
+  "data": "trisdyna:stock_sf7e_he_data",
+  "type": "stock",
+  "sort": 24040
+}

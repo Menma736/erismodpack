@@ -1,0 +1,32 @@
+{
+  "materials": [
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:modern_kinetic_gun",
+        "nbt": {
+          "GunId": "trisdyna:cms92"
+        }
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "item": "minecraft:quartz"
+      },
+      "count": 30
+    },
+    {
+      "item": {
+        "item": "minecraft:netherite_ingot"
+      },
+      "count": 2
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "trisdyna:cms92x",
+    "ammo_count": 200
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

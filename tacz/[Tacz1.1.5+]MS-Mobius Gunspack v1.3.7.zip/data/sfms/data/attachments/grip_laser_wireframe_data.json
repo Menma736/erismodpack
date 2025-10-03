@@ -1,0 +1,32 @@
+{
+  "weight": 0.35,
+  //"ads_addend": -0.025,
+  //"inaccuracy_addend": -0.5,
+  "ads": {
+    // 加数（多个配件的数值相加，作为第一个乘区）
+    //"addend": 0.08
+    // 百分比加数（1 + 多个配件相加，作为第二个乘区）
+     "addend": -0.1,
+    // 乘数（多个配件相乘，作为第三个乘区）
+     "percent": -0.16
+    // 调用 lua 的函数，返回值作为最终结果（输入值 x 为前三个乘区相乘的结果，r 代表枪械 data 中的原始数值，y 代表返回值）
+    // "function": "if (x > 20) then y = r + 5 else y = x * 3 end"
+  },
+  "recoil": {
+    "pitch": {
+      "percent": 0.05
+    },
+    "yaw": {
+      "percent": 0.03
+    }
+  },
+  // 爆头配置
+   "head_shot":{
+	"addend": 0.03
+  // "multiplier": 1.5
+   },
+  // 瞄准精度配置，最终数值越小越精准（新方法，推荐使用）
+   "aim_inaccuracy": {
+     "percent": -0.2
+   }
+}

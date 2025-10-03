@@ -1,0 +1,71 @@
+{
+    "model": "gz:gun/patriots_geo",
+    "texture": "gz:gun/uv/patriots",
+    "lod": {
+        "model": "gz:gun/patriots",
+        "texture": "gz:gun/patriots"
+    },
+    "hud": "gz:gun/hud/patriots",
+    "slot": "gz:gun/slot/patriots",
+    "animation": "tacz:m16a4",
+    "use_default_animation": "rifle",
+    "third_person_animation": "default",
+    "transform": {
+        "scale": {
+            "thirdperson": [
+                0.6,
+                0.6,
+                0.6
+            ],
+            "ground": [
+                0.6,
+                0.6,
+                0.6
+            ],
+            "fixed": [
+                1.2,
+                1.2,
+                1.2
+            ]
+        }
+    },
+    "muzzle_flash": {
+        "texture": "tacz:flash/common_muzzle_flash",
+        "scale": 1.0
+    },
+    "shell": {
+        "initial_velocity": [
+            5,
+            2,
+            1
+        ],
+        "random_velocity": [
+            1,
+            1,
+            0.25
+        ],
+        "acceleration": [
+            0.0,
+            -10,
+            0.0
+        ],
+        "angular_velocity": [
+            360,
+            -1200,
+            90
+        ],
+        "living_time": 1.0
+    },
+    "sounds": {
+        "shoot": "gz:m16a2/m16a2_shoot",
+        "shoot_3p": "gz:m16a2/m16a2_shoot_3p",
+        "silence": "gz:m16a2/m16a2_silence",
+        "silence_3p": "gz:m16a2/m16a2_silence_3p",
+        "reload_empty": "tacz:m16a4/m16a4_reload_empty",
+        "reload_tactical": "tacz:m16a4/m16a4_reload_tactical",
+        "inspect": "tacz:m16a4/m16a4_inspect",
+        "inspect_empty": "tacz:m16a4/m16a4_inspect_empty",
+        "draw": "tacz:m16a4/m16a4_draw",
+        "put_away": "tacz:m16a4/m16a4_put_away"
+    }
+}

@@ -1,0 +1,40 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 5
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 15
+    },
+    {
+      "item": {
+        "tag": "forge:gems/quartz"
+      },
+      "count": 5
+    },
+    {
+      "item": {
+        "tag": "forge:dusts/redstone"
+      },
+      "count": 5
+    },
+    {
+      "item": {
+        "item": "minecraft:clay_ball"
+      },
+      "count": 4
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "rainbow:40cpr",
+    "count": 45
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

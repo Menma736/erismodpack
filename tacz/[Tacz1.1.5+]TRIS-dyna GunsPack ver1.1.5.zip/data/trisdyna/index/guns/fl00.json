@@ -1,0 +1,9 @@
+{
+    "name": "trisdyna.gun.fl00.name",
+    "display": "trisdyna:fl00_display",
+    "tooltip": "trisdyna.fl00.desc",
+    "data": "trisdyna:fl00_data",
+	//mg，sniper，rifle，pistol，smg，rpg
+    "type": "pistol",
+    "sort": 24040
+}

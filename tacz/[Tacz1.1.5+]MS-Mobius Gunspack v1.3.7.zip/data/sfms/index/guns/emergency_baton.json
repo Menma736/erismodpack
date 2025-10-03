@@ -1,0 +1,9 @@
+{
+  "name": "sfms.gun.emergency_baton.name",
+  "tooltip": "sfms.gun.emergency_baton.desc",
+  "display": "sfms:emergency_baton_display",
+  "data": "sfms:emergency_baton_data",
+  //mg，sniper，rifle，pistol，smg，rpg，shotgun
+  "type": "pistol",
+  "sort": 24080
+}

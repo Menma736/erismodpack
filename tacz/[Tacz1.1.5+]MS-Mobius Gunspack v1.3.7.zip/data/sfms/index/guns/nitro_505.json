@@ -1,0 +1,9 @@
+{
+  "name": "sfms.gun.nitro_505.name",
+  "tooltip": "sfms.gun.nitro_505.desc",
+  "display": "sfms:nitro_505_display",
+  "data": "sfms:nitro_505_data",
+  //mg，sniper，rifle，pistol，smg，rpg，shotgun
+  "type": "pistol",
+  "sort": 24080
+}

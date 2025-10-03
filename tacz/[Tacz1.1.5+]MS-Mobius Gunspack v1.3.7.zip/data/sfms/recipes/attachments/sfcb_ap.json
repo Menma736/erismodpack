@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:diamond"
+      },
+      "count": 6
+    },
+    {
+      "item": {
+        "item": "minecraft:iron_ingot"
+      },
+      "count": 30
+    },
+    {
+      "item": {
+        "item": "minecraft:coal"
+      },
+      "count": 30
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "sfms:sfcb_ap"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

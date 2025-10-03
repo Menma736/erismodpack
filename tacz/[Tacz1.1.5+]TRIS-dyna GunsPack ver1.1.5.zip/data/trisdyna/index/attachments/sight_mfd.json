@@ -1,0 +1,8 @@
+{
+	"name": "trisdyna.attachment.sight_mfd.name",
+	"tooltip": "trisdyna.attachment.sight_mfd.tooltip",
+	"display": "trisdyna:sight_mfd_display",
+	"data": "trisdyna:sight_mfd_data",
+	"type": "scope",
+    "sort": 24040
+}

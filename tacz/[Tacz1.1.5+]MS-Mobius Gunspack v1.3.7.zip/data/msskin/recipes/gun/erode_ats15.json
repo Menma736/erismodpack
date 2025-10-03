@@ -1,0 +1,22 @@
+{
+  "materials": [
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:modern_kinetic_gun",
+        "nbt": {
+          "GunId": "erode:ats15_isaac"
+        }
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "erode:ats15_isaac",
+	"nbt" : {
+	"GunDisplayId": "erode:ats15_1_display"
+	}
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

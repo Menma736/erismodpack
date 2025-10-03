@@ -1,0 +1,9 @@
+{
+  "name": "trisdyna.attachment.muzzle_trls_2.name",
+  "tooltip": "trisdyna.attachment.muzzle_trls_2.tooltip",
+  "display": "trisdyna:muzzle_trls_2_display",
+  "data": "trisdyna:muzzle_trls_2_data",
+  //extended_mag,stock,muzzle,grip,stock,scope
+  "type": "muzzle",
+  "sort": 24040
+}

@@ -1,0 +1,44 @@
+{
+  "materials": [
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:ammo",
+        "nbt": {
+          "AmmoId": "trisdyna:emx_b2"
+        }
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "item": "minecraft:redstone_block"
+      },
+      "count": 8
+    },
+    {
+      "item": {
+        "item": "minecraft:iron_ingot"
+      },
+      "count": 85
+    },
+    {
+      "item": {
+        "item": "minecraft:gold_ingot"
+      },
+      "count": 25
+    },
+    {
+      "item": {
+        "item": "minecraft:glass"
+      },
+      "count": 80
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "trisdyna:fs2000",
+    "ammo_count": 5
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

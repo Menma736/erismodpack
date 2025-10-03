@@ -1,0 +1,7 @@
+{
+  "name": "trisdyna.attachment.laser_shimmer.name",
+  "tooltip": "trisdyna.attachment.laser_shimmer.tooltip",
+  "display": "trisdyna:laser_shimmer_display",
+  "data": "trisdyna:laser_shimmer_data",
+  "type": "laser"
+}

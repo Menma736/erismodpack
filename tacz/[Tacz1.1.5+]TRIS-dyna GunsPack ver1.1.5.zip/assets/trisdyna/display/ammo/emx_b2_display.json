@@ -1,0 +1,25 @@
+{
+  "slot": "trisdyna:ammo/slot/emx_b2",
+  "model": "trisdyna:ammo/emx_b2_geo",
+  "texture": "trisdyna:ammo/uv/emx_b2",
+  "tracer_color": "#deffd7",
+  "transform": {
+    "scale": {
+      "thirdperson": [
+        1.4,
+        1.4,
+        1.4
+      ],
+      "ground": [
+        1.4,
+        1.4,
+        1.4
+      ],
+      "fixed": [
+        2,
+        2,
+        2
+      ]
+    }
+  }
+}

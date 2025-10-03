@@ -1,0 +1,38 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 60
+    },
+    {
+      "item": {
+        "item": "minecraft:netherite_ingot"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 125
+    },
+    {
+      "item": {
+        "tag": "forge:gems/diamond"
+      },
+      "count": 8
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "sfms:m200",
+    "attachments": {
+      "scope": "sfms:scope_mk5hd",
+	  "extended_mag": "tacz:sniper_extended_mag_3",
+	  "muzzle": "muzzle_htrs41"
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

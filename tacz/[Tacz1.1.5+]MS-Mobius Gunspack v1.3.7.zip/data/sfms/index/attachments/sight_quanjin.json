@@ -1,0 +1,8 @@
+{
+	"name": "sfms.attachment.sight_quanjin.name",
+	"tooltip": "sfms.attachment.sight_quanjin.tooltip",
+	"display": "sfms:sight_quanjin_display",
+	"data": "sfms:sight_quanjin_data",
+	"type": "scope",
+    "sort": 24080
+}

@@ -1,0 +1,10 @@
+{
+  "weight": 0.21,
+  "ads_addend": -0.02,
+  // 爆头配置
+   "head_shot":{
+   "addend": 0.04
+  // "multiplier": 1.5
+   },
+  "inaccuracy_addend": -0.1
+}

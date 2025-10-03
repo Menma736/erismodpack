@@ -1,0 +1,25 @@
+{
+  "slot": "trisdyna:ammo/slot/tris_core",
+  "model": "trisdyna:ammo/tris_core_geo",
+  "texture": "trisdyna:ammo/uv/tris_core",
+  "tracer_color": "#deffd7",
+  "transform": {
+    "scale": {
+      "thirdperson": [
+        1.4,
+        1.4,
+        1.4
+      ],
+      "ground": [
+        1.4,
+        1.4,
+        1.4
+      ],
+      "fixed": [
+        2.4,
+        2.4,
+        2.4
+      ]
+    }
+  }
+}

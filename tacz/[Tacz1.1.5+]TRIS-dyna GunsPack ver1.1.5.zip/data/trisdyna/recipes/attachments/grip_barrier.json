@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:redstone"
+      },
+      "count": 20
+    },
+    {
+      "item": {
+        "item": "minecraft:glass"
+      },
+      "count": 28
+    },
+    {
+      "item": {
+        "item": "minecraft:iron_ingot"
+      },
+      "count": 18
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "trisdyna:grip_barrier"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

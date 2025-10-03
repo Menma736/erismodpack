@@ -1,0 +1,8 @@
+{
+  "name": "sfms.gun.ats15mod_isaac.name",
+  "tooltip": "sfms.gun.ats15mod_isaac.desc",
+  "display": "erode:ats15mod_isaac_display",
+  "data": "erode:ats15mod_isaac_data",
+  "type": "rifle",
+  "sort": 24082
+}

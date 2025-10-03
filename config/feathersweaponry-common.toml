@@ -1,0 +1,16 @@
+
+#Feathers Weaponry Configuration
+[general]
+	#Time in ticks required for drawing a bow, crossbow, or trident before deducting feathers.
+	#Default value: 15 ticks; Minimum: 1 tick; Maximum: 100 ticks.
+	#Range: 1 ~ 100
+	drawTimeThreshold = 15
+	#Air (bubble) threshold. If the player's air is below this value, feather deductions are multiplied by 2.
+	#Default value: 4; Minimum: 0; Maximum: 20.
+	#Range: 0 ~ 20
+	bubbleThreshold = 4
+	#List of valid item IDs for bow-like items. These items trigger the draw deduction when used.
+	validBowItems = ["minecraft:bow", "minecraft:crossbow", "minecraft:trident"]
+	#List of valid item IDs for weapon-based actions. These items trigger feather deductions when used to attack.
+	validWeaponItems = ["minecraft:iron_sword", "minecraft:stone_sword", "minecraft:wooden_sword", "minecraft:golden_sword", "minecraft:diamond_sword", "minecraft:netherite_sword", "minecraft:iron_axe", "minecraft:stone_axe", "minecraft:wooden_axe", "minecraft:golden_axe", "minecraft:diamond_axe", "minecraft:netherite_axe", "minecraft:trident"]
+

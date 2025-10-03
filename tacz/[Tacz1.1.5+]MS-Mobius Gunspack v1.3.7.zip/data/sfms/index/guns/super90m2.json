@@ -1,0 +1,9 @@
+{
+  "name": "sfms.gun.super90m2.name",
+  "tooltip": "sfms.gun.super90m2.desc",
+  "display": "sfms:super90m2_display",
+  "data": "sfms:super90m2_data",
+  //mg，sniper，rifle，pistol，smg，rpg，shotgun
+  "type": "shotgun",
+  "sort": 24080
+}

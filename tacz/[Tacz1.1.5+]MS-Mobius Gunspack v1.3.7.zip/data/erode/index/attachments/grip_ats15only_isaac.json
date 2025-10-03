@@ -1,0 +1,8 @@
+{
+	"name": "sfms.attachment.grip_ats15only_isaac.name",
+	"tooltip": "sfms.attachment.grip_ats15only_isaac.tooltip",
+	"display": "erode:grip_ats15only_isaac_display",
+	"data": "erode:grip_ats15only_isaac_data",
+	"type": "grip",
+    "sort": 24082
+}

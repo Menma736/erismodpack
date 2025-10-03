@@ -1,0 +1,56 @@
+{
+  "model": "trisdyna:gun/fl00_geo",
+  "texture": "trisdyna:gun/uv/fl00",
+  "hud": "trisdyna:gun/hud/fl00",
+  "slot": "trisdyna:gun/slot/fl00",
+  //"state_machine": "trisdyna:default_state_machine",
+  // 弹药计量样式，可选值：”normal“(显示实际值)、”percent“(显示百分比)，默认为”normal“
+  "ammo_count_style": "percent",
+  "animation": "trisdyna:fl00",
+  "use_default_animation": "pistol",
+  "player_animator_3rd": "tacz:pistol_default.player_animation",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "shell": {
+    "initial_velocity": [5.0, 3.0, 1],
+    "random_velocity": [2.5, 2, 0.25],
+    "acceleration": [0.0, -20, 0.0],
+    "angular_velocity": [360, -960, 90],
+    "living_time": 1.0
+  },
+  "muzzle_flash": {
+    "texture": "trisdyna:flash/tris_muzzle_flash",
+    "scale": 0.65
+  },
+  "iron_zoom": 1.5,
+  "sounds": {
+    "draw": "trisdyna:fl00/m1911_draw",
+    "put_away": "trisdyna:fl00/m1911_put_away",
+    "shoot": "trisdyna:fl00/fl00_shoot1",
+    "shoot_3p": "trisdyna:fl00/fl00_shoot1",
+    "silence": "trisdyna:trisgun/tris_shoot2s",
+    "silence_3p": "trisdyna:trisgun/tris_shoot2s",
+    "dry_fire": "trisdyna:emx_dw2",
+    "fire_select": "trisdyna:emx_mode",
+    "head_hit": "trisdyna:tris_hit1",
+    "flesh_hit": "trisdyna:tris_hit2",
+	"kill": "trisdyna:emx_hit1"
+  },
+  "offhand_show": {
+    "pos": [4, 13, -1],
+    "rotate": [-90, -35, 90],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [-5, 13, -1],
+      "rotate": [-90, -35, 90],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

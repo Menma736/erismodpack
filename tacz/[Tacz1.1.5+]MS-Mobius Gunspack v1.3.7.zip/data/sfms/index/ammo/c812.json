@@ -1,0 +1,7 @@
+{
+  "name": "sfms.ammo.c812.name",
+  "tooltip": "sfms.ammo.c812.desc",
+  "display": "sfms:c812_display",
+  // 堆叠数量
+  "stack_size": 60
+}

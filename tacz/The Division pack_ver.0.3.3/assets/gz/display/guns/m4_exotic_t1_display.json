@@ -1,0 +1,67 @@
+{
+    "model": "gz:gun/m4_exotic_t1_geo",
+    "texture": "gz:gun/uv/m4_exotic_t1",
+    "lod": {
+        "model": "gz:gun/m4_exotic_t1",
+        "texture": "gz:gun/m4_exotic_t1"
+    },
+    "hud": "gz:gun/hud/m4_exotic_t1",
+    "slot": "gz:gun/slot/m4_exotic_t1",
+    "animation": "gz:m4_exotic_t1",
+    "use_default_animation": "rifle",
+    "third_person_animation": "default",
+    "transform": {
+        "scale": {
+            "thirdperson": [
+                0.6,
+                0.6,
+                0.6
+            ],
+            "ground": [
+                0.6,
+                0.6,
+                0.6
+            ],
+            "fixed": [
+                1.2,
+                1.2,
+                1.2
+            ]
+        }
+    },
+    "muzzle_flash": {
+        "texture": "tacz:flash/common_muzzle_flash",
+        "scale": 0.5
+    },
+    "shell": {
+        "initial_velocity": [
+            5,
+            2,
+            1
+        ],
+        "random_velocity": [
+            1,
+            1,
+            0.25
+        ],
+        "acceleration": [
+            0.0,
+            -10,
+            0.0
+        ],
+        "angular_velocity": [
+            360,
+            -1200,
+            90
+        ],
+        "living_time": 1.0
+    },
+    "iron_zoom": 1.5,
+    "zoom_model_fov": 30,
+    "sounds": {
+        "shoot": "gz:lightweight_m4/lightweight_m4_shoot",
+        "shoot_3p": "gz:lightweight_m4lightweight_m4_shoot_3p",
+        "draw": "tacz:m16a4/m16a4_draw",
+        "put_away": "tacz:m16a4/m16a4_put_away"
+    }
+}

@@ -1,0 +1,60 @@
+{
+  "model": "sfms:gun/mgl416_geo",
+  "texture": "sfms:gun/uv/mgl416",
+  "hud": "sfms:gun/hud/mgl416",
+  "slot": "sfms:gun/slot/mgl416",
+  "animation": "sfms:mgl416",
+  "use_default_animation": "rifle",
+  "player_animator_3rd": "tacz:rifle_default.player_animation",
+  //"lod": {
+  //  "model": "tacz:gun/lod/m320",
+  //  "texture": "tacz:gun/lod/m320"
+  //},
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "ammo": {
+    "tracer_color": "#FF8888",
+        "particle": {
+          "name": "campfire_signal_smoke",
+          "delta": [
+            0,
+            0,
+            0
+          ],
+          // 速度，默认为0，必须至少为 0
+          "speed": 0,
+          // 粒子存在时间，单位 tick，默认为 20 tick
+          "life_time": 1,
+          // 粒子数量，当子弹速度过快时，可以增大此数量，能够填满子弹路径的空隙
+          "count": 1
+        }
+  },
+  "sounds": {
+    "reload_empty": "tacz:m320/m320_reload_empty",
+    "inspect": "sfms:sfms_guns/m320_i",
+    "inspect_empty": "tacz:m320/m320_inspect",
+    "draw": "tacz:m320/m320_draw",
+    "put_away":"tacz:m320/m320_put_away",
+    "shoot": "sfms:sfms_guns/tegl_shoot",
+    "shoot_3p": "sfms:sfms_guns/tegl_shoot",
+    "melee_push": "tacz:melee_stock/melee_stock_02",
+    "melee_stock": "tacz:melee_stock/melee_stock_03"
+  },
+  "offhand_show": {
+    "pos": [1, 20, 4],
+    "rotate": [0, 0, 45],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [1, 16, -2],
+    "rotate": [0, 0, 20],
+    "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

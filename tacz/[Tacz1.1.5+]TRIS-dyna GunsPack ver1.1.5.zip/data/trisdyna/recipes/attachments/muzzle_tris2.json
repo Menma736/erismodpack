@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:redstone"
+      },
+      "count": 30
+    },
+    {
+      "item": {
+        "item": "minecraft:glass"
+      },
+      "count": 30
+    },
+    {
+      "item": {
+        "item": "minecraft:iron_ingot"
+      },
+      "count": 30
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "trisdyna:muzzle_tris1"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

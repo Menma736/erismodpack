@@ -1,0 +1,9 @@
+{
+  "name": "sfms.gun.m200.name",
+  "tooltip": "sfms.gun.m200.desc",
+  "display": "sfms:m200_display",
+  "data": "sfms:m200_data",
+  //mg，sniper，rifle，pistol，smg，rpg，shotgun
+  "type": "sniper",
+  "sort": 24080
+}

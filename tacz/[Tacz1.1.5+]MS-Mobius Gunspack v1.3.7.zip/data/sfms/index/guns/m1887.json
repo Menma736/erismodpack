@@ -1,0 +1,9 @@
+{
+  "name": "sfms.gun.m1887.name",
+  "tooltip": "sfms.gun.m1887.desc",
+  "display": "sfms:m1887_display",
+  "data": "sfms:m1887_data",
+  //mg，sniper，rifle，pistol，smg，rpg，shotgun
+  "type": "shotgun",
+  "sort": 24080
+}

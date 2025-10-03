@@ -1,0 +1,7 @@
+{
+    "name": "gz.gun.m4_exotic_t2.name",
+    "tooltip": "gz.m4_exotic_t2.desc",
+    "display": "gz:m4_exotic_t2_display",
+    "data": "gz:m4_exotic_t2_data",
+    "type": "rifle"
+}

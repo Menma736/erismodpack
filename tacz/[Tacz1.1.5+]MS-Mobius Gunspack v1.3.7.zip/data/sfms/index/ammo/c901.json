@@ -1,0 +1,7 @@
+{
+  "name": "sfms.ammo.c901.name",
+  "tooltip": "sfms.ammo.c901.desc",
+  "display": "sfms:c901_display",
+  // 堆叠数量
+  "stack_size": 60
+}

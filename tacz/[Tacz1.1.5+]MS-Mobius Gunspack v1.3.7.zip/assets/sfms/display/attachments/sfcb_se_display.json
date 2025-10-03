@@ -1,0 +1,8 @@
+{
+  "slot": "sfms:attachment/slot/sfcb_se",
+  "adapter": "sfcb_se",
+  "sounds": {
+    "install": "sfms:tb23/tb_reload2",
+    "uninstall": "tacz:attachments/scope_general_e"
+  }
+}

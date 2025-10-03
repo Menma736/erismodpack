@@ -1,0 +1,59 @@
+{
+  "materials": [
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:ammo",
+        "nbt": {
+          "AmmoId": "trisdyna:tris_core"
+        }
+      },
+      "count": 12
+    },
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:ammo",
+        "nbt": {
+          "AmmoId": "trisdyna:emx_b1"
+        }
+      },
+      "count": 30
+    },
+    {
+      "item": {
+        "item": "minecraft:redstone"
+      },
+      "count": 200
+    },
+    {
+      "item": {
+        "item": "minecraft:end_crystal"
+      },
+      "count": 8
+    },
+    {
+      "item": {
+        "item": "minecraft:sea_lantern"
+      },
+      "count": 24
+    },
+    {
+      "item": {
+        "item": "minecraft:netherite_scrap"
+      },
+      "count": 24
+    },
+    {
+      "item": {
+        "item": "minecraft:iron_ingot"
+      },
+      "count": 280
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "trisdyna:stock_sf7e_sp"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

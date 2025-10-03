@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:glass"
+      },
+      "count": 36
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 36
+    },
+    {
+      "item": {
+        "item": "minecraft:coal"
+      },
+      "count": 20
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "sfms:nitro_505"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

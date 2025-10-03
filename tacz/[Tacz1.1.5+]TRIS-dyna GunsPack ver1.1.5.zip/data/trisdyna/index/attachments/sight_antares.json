@@ -1,0 +1,8 @@
+{
+	"name": "trisdyna.attachment.sight_antares.name",
+	"tooltip": "trisdyna.attachment.sight_antares.tooltip",
+	"display": "trisdyna:sight_antares_display",
+	"data": "trisdyna:sight_antares_data",
+	"type": "scope",
+	"sort": 24040
+}

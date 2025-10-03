@@ -1,0 +1,8 @@
+{
+	"name": "sfms.attachment.laser_msl3.name",
+	"tooltip": "sfms.attachment.laser_msl3.tooltip",
+	"display": "sfms:laser_msl3_display",
+	"data": "sfms:laser_msl3_data",
+	"type": "laser",
+    "sort": 24080
+}

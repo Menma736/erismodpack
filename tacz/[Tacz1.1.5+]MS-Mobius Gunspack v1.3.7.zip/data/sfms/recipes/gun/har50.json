@@ -1,0 +1,52 @@
+{
+  "materials": [
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:modern_kinetic_gun",
+        "nbt": {
+          "GunId": "tacz:m249"
+        }
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "minecraft:netherite_ingot"
+      },
+      "count": 10
+    },
+    {
+      "item": {
+        "item": "minecraft:nether_star"
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 320
+    },
+    {
+      "item": {
+        "tag": "forge:gems/diamond"
+      },
+      "count": 20
+    },
+    {
+      "item": {
+        "item": "minecraft:dragon_head"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "sfms:har50",
+    "attachments": {
+      "scope": "sfms:scope_har50"
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

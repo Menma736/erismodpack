@@ -1,0 +1,11 @@
+{
+  "slot": "erode:attachment/slot/grip_ats15_isaac",
+  // 配件的默认模型，不可为空
+  "model": "erode:attachment/grip_ats15_isaac_geo",
+  // 配件默认模型使用的材质，不可为空
+  "texture": "erode:attachment/uv/grip_ats15_isaac",
+  "sounds": {
+    "install": "tacz:attachments/scope_general_e",
+    "uninstall": "tacz:attachments/scope_general_e"
+  }
+}

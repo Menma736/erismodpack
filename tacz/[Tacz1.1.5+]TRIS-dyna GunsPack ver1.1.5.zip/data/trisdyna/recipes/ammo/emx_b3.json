@@ -1,0 +1,28 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:iron_ingot"
+      },
+      "count": 24
+    },
+    {
+      "item": {
+        "item": "minecraft:gold_ingot"
+      },
+      "count": 8
+    },
+    {
+      "item": {
+        "item": "minecraft:amethyst_block"
+      },
+      "count": 8
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "trisdyna:emx_b3",
+    "count": 8
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

@@ -1,0 +1,31 @@
+{
+  "materials": [
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:attachment",
+        "nbt": {
+          "AttachmentId": "tacz:extended_mag_3"
+        }
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "minecraft:netherite_ingot"
+      },
+      "count": 3
+    },
+    {
+      "item": {
+        "item": "minecraft:gold_ingot"
+      },
+      "count": 20
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "sfms:ms_mag3"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

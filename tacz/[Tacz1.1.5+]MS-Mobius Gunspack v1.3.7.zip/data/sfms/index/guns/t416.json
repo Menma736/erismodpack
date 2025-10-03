@@ -1,0 +1,8 @@
+{
+  "name": "sfms.gun.t416.name",
+  "tooltip": "sfms.gun.t416.desc",
+  "display": "sfms:t416_display",
+  "data": "sfms:t416_data",
+  "type": "rifle",
+  "sort": 24080
+}

@@ -1,0 +1,50 @@
+{
+    "model": "trisdyna:gun/cms92x_geo",
+    "texture": "trisdyna:gun/uv/cms92x",
+    "lod": {
+		"model": "trisdyna:gun/cms92_geo",
+		"texture": "trisdyna:gun/uv/cms92"
+    },
+    "hud": "trisdyna:gun/hud/cms92x",
+    "slot": "trisdyna:gun/slot/cms92x",
+    "animation": "trisdyna:cms92x",
+    "state_machine": "trisdyna:cms92x_state_machine",
+    "ammo_count_style": "percent",
+    "use_default_animation": "rifle",
+    "third_person_animation": "default",
+    "show_crosshair": true,
+	"iron_zoom": 1.8,
+    "transform": {
+        "scale": {
+            "thirdperson": [
+                0.6,
+                0.6,
+                0.6
+            ],
+            "ground": [
+                0.6,
+                0.6,
+                0.6
+            ],
+            "fixed": [
+                1.2,
+                1.2,
+                1.2
+            ]
+        }
+    },
+    "sounds": {
+		"shoot": "trisdyna:cms92x/shoot_left",
+        "shoot_3p": "trisdyna:cms92x/shoot_left",
+		"silence": "trisdyna:trisgun/tris_shoot16",
+		"silence_3p": "trisdyna:trisgun/tris_shoot16",
+        "draw": "trisdyna:cms92x/niklas_pistol_double_win_win_draw",
+		"dry_fire": "trisdyna:emx_dw2",
+		"fire_select": "trisdyna:emx_mode",
+        "put_away": "trisdyna:cms92x/niklas_pistol_double_win_win_put_away",
+        "silence_3p": "trisdyna:cms92x/niklas_pistol_double_win_win_silence_3p",
+		"head_hit": "trisdyna:tris_hit1",
+		"flesh_hit": "trisdyna:tris_hit2",
+		"kill": "trisdyna:emx_hit1"
+    }
+}

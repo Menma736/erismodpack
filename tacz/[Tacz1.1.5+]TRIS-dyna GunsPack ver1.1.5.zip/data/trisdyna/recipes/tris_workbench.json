@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "result": {
+    "item": "tacz:workbench_b",
+    "nbt": {
+      "BlockId": "trisdyna:tris_workbench"
+    }
+  },
+  "pattern": [
+    "RLL",
+    "BBL",
+    "I I"
+  ],
+  "key": {
+    "L": {
+      "tag": "forge:glass"
+    },
+    "R": {
+      "item": "minecraft:redstone_block"
+    },
+    "I": {
+      "tag": "forge:ingots/iron"
+    },
+    "B": {
+      "item": "minecraft:polished_andesite"
+    }
+  }
+}

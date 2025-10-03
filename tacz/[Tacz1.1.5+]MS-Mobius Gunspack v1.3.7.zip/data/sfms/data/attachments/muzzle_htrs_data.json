@@ -1,0 +1,22 @@
+{
+  "weight": 1.1,
+  "ads": {
+    "addend": 0.05
+  },
+  "recoil": {
+    "pitch": {
+      "addend": -0.2,
+	  "percent": -0.1
+    },
+    "yaw": {
+      "addend": 0.15
+    }
+  },
+  // 爆头配置
+   "head_shot":{
+	"addend": 0.05
+   },
+	"damage": {
+		"percent": 0.06
+   }
+}

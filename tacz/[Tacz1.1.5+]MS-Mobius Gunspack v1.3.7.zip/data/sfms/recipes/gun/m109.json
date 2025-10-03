@@ -1,0 +1,36 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 70
+    },
+    {
+      "item": {
+        "item": "minecraft:netherite_ingot"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 325
+    },
+    {
+      "item": {
+        "tag": "forge:gems/diamond"
+      },
+      "count": 20
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "sfms:m109",
+    "attachments": {
+      "scope": "sfms:scope_mk5hd"
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

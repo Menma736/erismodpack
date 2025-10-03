@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 32
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 16
+    },
+    {
+      "item": {
+        "item": "minecraft:redstone"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "tag": "forge:dyes/red"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "gz:arx200_nero"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

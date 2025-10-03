@@ -1,0 +1,77 @@
+{
+    "model": "sfms:gun/m1887_geo",
+    "texture": "sfms:gun/uv/m1887",
+    "hud": "sfms:gun/hud/m1887",
+    "slot": "sfms:gun/slot/m1887",
+    "animation": "sfms:m1887",
+    "use_default_animation": "rifle",
+    "third_person_animation": "default",
+    "transform": {
+        "scale": {
+            "thirdperson": [
+                0.6,
+                0.6,
+                0.6
+            ],
+            "ground": [
+                0.6,
+                0.6,
+                0.6
+            ],
+            "fixed": [
+                1.2,
+                1.2,
+                1.2
+            ]
+        }
+    },
+    "shell": {
+        "initial_velocity": [5, 2, 1],
+        "random_velocity": [1, 1, 0.25],
+        "acceleration": [0.0, -10, 0.0],
+        "angular_velocity": [360, -1200, 90],
+        "living_time": 1.0
+    },
+  // 子弹相关渲染参数。ammo display 里也有，但是会被这里的参数覆盖掉
+  "ammo": {
+    // 曳光弹颜色，没有则为 #FFFFFF，没有此字段时，会调用 ammo 的相关字段
+    // 严格遵循 RGB 颜色代码
+    "tracer_color": "#FF7900",
+    // 粒子效果，部分参数和原版指令完全一致，具体可参考 wiki：https://minecraft.fandom.com/zh/wiki/%E5%91%BD%E4%BB%A4/particle
+    // 没有此字段时，会调用 ammo 的相关字段
+        "particle": {
+    //      // 名称，具体可选粒子可参考 wiki：https://minecraft.fandom.com/zh/wiki/%E7%B2%92%E5%AD%90
+          "name": "lava",
+    //      // 生成的区域，默认为 0 0 0
+          "delta": [
+            0,
+            0,
+            0
+          ],
+    //      // 速度，默认为0，必须至少为 0
+          "speed": 0,
+    //      // 粒子存在时间，单位 tick，默认为 20 tick
+          "life_time": 40,
+    //      // 粒子数量，当子弹速度过快时，可以增大此数量，能够填满子弹路径的空隙
+          "count": 1
+        }
+  },
+    "muzzle_flash": {
+        "texture": "tacz:flash/common_muzzle_flash",
+        "scale": 1.5
+    },
+    "sounds": {
+        "shoot": "sfms:m1887/m1887_shoot2",
+        "shoot_3p": "sfms:m1887/m1887_shoot2",
+        "reload_empty": "sfms:m1887/niklas_lever_vigenere_reload_empty",
+        "reload_tactical": "sfms:m1887/niklas_lever_vigenere_reload_tactical",
+        "inspect": "sfms:m1887/niklas_lever_vigenere_inspect",
+        "inspect_empty": "sfms:m1887/niklas_lever_vigenere_inspect",
+        "draw": "sfms:m1887/niklas_lever_vigenere_bolt",
+        "bolt": "sfms:m1887/niklas_lever_vigenere_bolt",
+        "put_away": "sfms:m1887/niklas_lever_vigenere_put_away",
+        "silence": "sfms:m1887/m1887_shoot2",
+        "fire_select": "applied_armorer:misc/select_mode",
+        "silence_3p": "sfms:m1887/m1887_shoot2"
+    }
+}

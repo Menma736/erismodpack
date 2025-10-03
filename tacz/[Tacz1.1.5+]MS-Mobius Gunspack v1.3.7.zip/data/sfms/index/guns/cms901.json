@@ -1,0 +1,8 @@
+{
+  "name": "sfms.gun.cms901.name",
+  "tooltip": "sfms.gun.cms901.desc",
+  "display": "sfms:cms901_display",
+  "data": "sfms:cms901_data",
+  "type": "rifle",
+  "sort": 24080
+}

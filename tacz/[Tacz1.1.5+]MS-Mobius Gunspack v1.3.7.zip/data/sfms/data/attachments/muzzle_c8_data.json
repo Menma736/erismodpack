@@ -1,0 +1,26 @@
+{
+  "weight": 0.8,
+  "ads": {
+    "addend": 0.02
+  },
+  "recoil": {
+    "pitch": {
+      "addend": 0.2
+    },
+    "yaw": {
+      "addend": 0.15
+    }
+  },
+  // 爆头配置
+   "head_shot":{
+	"addend": 0.05
+   },
+	"damage": {
+		"multiplier": 1.1
+  // 里面填写参照其他新方法的四个参数
+   },
+  // 穿透配置
+   "pierce": {
+	"addend": 1.0
+   }
+}

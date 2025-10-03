@@ -1,0 +1,21 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:coal"
+      },
+      "count": 12
+    },
+    {
+      "item": {
+        "item": "minecraft:iron_ingot"
+      },
+      "count": 28
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "sfms:muzzle_htrs23"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

@@ -1,0 +1,71 @@
+{
+  "model": "sfms:gun/m200_geo",
+  "texture": "sfms:gun/uv/m200",
+  "slot": "sfms:gun/slot/m200",
+  "hud": "sfms:gun/hud/m200",
+  "animation": "sfms:m200",
+  "state_machine": "sfms:hamster_state_machine",
+  "lod": {
+    "model": "sfms:gun/lod/m200",
+    "texture": "sfms:gun/lod/m200"
+  },
+  "use_default_animation": "rifle",
+  "player_animator_3rd": "tacz:rifle_default.player_animation",
+  "iron_zoom": 1.5,
+  "zoom_model_fov": 45,
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.0, 1.0, 1.0]
+    }
+  },
+  "ammo":{
+    "particle": {
+      // 名称，具体可选粒子可参考 wiki：https://minecraft.fandom.com/zh/wiki/%E7%B2%92%E5%AD%90
+      "name": "end_rod",
+      // 生成的区域，默认为 0 0 0
+      "delta": [
+        0,
+        0,
+        0
+      ],
+      // 速度，默认为0，必须至少为 0
+      "speed": 0.0,
+      // 粒子存在时间，单位 tick，默认为 20 tick
+      "life_time": 20,
+      // 粒子数量，当子弹速度过快时，可以增大此数量，能够填满子弹路径的空隙
+      "count": 100
+    }
+  },
+  "muzzle_flash": {
+    "texture": "tacz:flash/common_muzzle_flash",
+    "scale": 1.1
+  },
+  "shell": {
+    "initial_velocity": [5, 2, 1],
+    "random_velocity": [1, 1, 0.25],
+    "acceleration": [0.0, -10, 0.0],
+    "angular_velocity": [360, -1200, 90],
+    "living_time": 1.0
+  },
+  "sounds": {
+    "shoot": "sfms:m200/m200_shoot1",
+    "shoot_3p": "sfms:m200/cs_m200_shoot1",
+    "silence": "sfms:m200/m200_shoots1",
+    "silence_3p": "sfms:m200/m200_shoots1",
+    "draw": "sfms:m200/cs_awp_draw",
+    "put_away": "sfms:m200/cs_awp_put_away",
+    "reload_empty": "sfms:m200/cs_awp_reload_empty",
+    "reload_tactical": "sfms:m200/cs_awp_reload_tactical",
+    "bolt": "sfms:m200/cs_awp_bolt",
+    "inspect": "sfms:m200/cs_awp_inspect",
+    "inspect_empty": "sfms:m200/cs_awp_inspect_empty",
+    "dry_fire": "sfms:dry_fire",
+    "fire_select": "sfms:fire_select",
+    "head_hit": "sfms:head_hit",
+    "flesh_hit": "sfms:flesh_hit",
+    "kill": "sfms:kill"
+  }
+}

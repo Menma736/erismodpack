@@ -1,0 +1,62 @@
+{
+  "model": "trisdyna:gun/ch104_geo",
+  "texture": "trisdyna:gun/uv/ch104",
+  "hud": "trisdyna:gun/hud/ch104",
+  "slot": "trisdyna:gun/slot/ch104",
+  // 弹药计量样式，可选值：”normal“(显示实际值)、”percent“(显示百分比)，默认为”normal“
+  "ammo_count_style": "percent",
+  "animation": "trisdyna:ch104",
+  //"state_machine": "trisdyna:default_state_machine",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "trisdyna:flash/tris_muzzle_flash",
+    "scale": 1.0
+  },
+  "iron_zoom": 1.2,
+  "shell": {
+    "initial_velocity": [5, 2, 1],
+    "random_velocity": [1, 1, 0.25],
+    "acceleration": [0.0, -10, 0.0],
+    "angular_velocity": [360, -1200, 90],
+    "living_time": 1.0
+  },
+  "sounds": {
+    "shoot": "trisdyna:ch104/ch104_shoot1",
+    "shoot_3p": "trisdyna:ch104/ch104_shoot1",
+    "reload_empty": "trisdyna:trisgun/ch104reload1",
+    "reload_tactical": "trisdyna:trisgun/ch104reload1",
+    "inspect": "trisdyna:ch104/ch104_reload",
+    "inspect_empty": "trisdyna:ch104/ch104_reload",
+    "draw": "trisdyna:ch104/mk14_draw",
+    "put_away": "trisdyna:ch104/mk14_put_away",
+    "silence": "trisdyna:trisgun/tris_shoot17",
+    "silence_3p": "trisdyna:trisgun/tris_shoot17",
+    "dry_fire": "trisdyna:emx_dw2",
+    "fire_select": "trisdyna:emx_mode",
+    "head_hit": "trisdyna:tris_hit1",
+    "flesh_hit": "trisdyna:tris_hit2",
+    "kill": "trisdyna:emx_hit1",
+    "melee_push": "tacz:melee_stock/melee_stock_01",
+    "melee_stock": "tacz:melee_stock/melee_stock_03"
+  },
+  "offhand_show": {
+    "pos": [0, 19, 4],
+    "rotate": [0, 0, 60],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [0, 19, 3],
+      "rotate": [-180, 0, 120],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "trisdyna.gun.r117_weedy.name",
+    "display": "trisdyna:r117_weedy_display",
+    "tooltip": "trisdyna.gun.r117_weedy.desc",
+    "data": "trisdyna:r117_weedy_data",
+	//mg，sniper，rifle，pistol，smg，rpg
+    "type": "rpg",
+    "sort": 24040
+}

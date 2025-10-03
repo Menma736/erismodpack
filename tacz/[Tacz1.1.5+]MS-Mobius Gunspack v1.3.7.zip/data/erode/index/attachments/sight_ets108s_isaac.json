@@ -1,0 +1,8 @@
+{
+	"name": "sfms.attachment.sight_ets108s_isaac.name",
+	"tooltip": "sfms.attachment.sight_ets108s_isaac.tooltip",
+	"display": "erode:sight_ets108s_isaac_display",
+	"data": "erode:sight_ets108s_isaac_data",
+	"type": "scope",
+    "sort": 24082
+}

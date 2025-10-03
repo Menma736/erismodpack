@@ -1,0 +1,8 @@
+{
+  "slot": "sfms:attachment/slot/ms_mag2",
+  "adapter": "ms_mag2",
+  "sounds": {
+    "install": "tacz:attachments/extended_mag_install",
+    "uninstall": "tacz:attachments/extended_mag_uninstall"
+  }
+}
