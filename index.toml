@@ -1481,10 +1481,6 @@ file = "fancymenu_data/last_world.fmdata"
 hash = "18e85c1d7bc0310fa02fe5f198883e110c4d0e95b4db202011c7b9865b95cc99"
 
 [[files]]
-file = "icon.png"
-hash = "9a6bbb6fa534c059a250d3fbfdddb746db60c8549394be3f75bbc06325492d2a"
-
-[[files]]
 file = "mods/AI-Improvements-1.20-0.5.2.jar"
 hash = "575a4a8e00f982c064d54bb3e73e5cda2d14414de054a471a3daf3f58bdf560a"
 
