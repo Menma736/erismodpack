@@ -1,7 +1,0 @@
-{
-  "slot": "trisdyna:attachment/slot/stock_sf7e_sp",
-  "sounds": {
-    "install": "trisdyna:attachments/emxmag_h1",
-    "uninstall": "trisdyna:attachments/emxmag_h2"
-  }
-}

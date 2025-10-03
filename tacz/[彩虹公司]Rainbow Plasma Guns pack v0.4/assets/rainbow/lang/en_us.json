@@ -1,8 +1,0 @@
-{
-  "pack.rainbow_plasmagun.name": "Rainbow company's plasma guns pack",
-  "pack.rainbow_plasmagun.desc": "A series of plasma guns produced by Rainbow Company. This type of firearm emits a slow-light space-time structure.",
-  "rainbow.gun.rb40.name":"RB40 plasma pistol ",
-  "rainbow.ammo.40cpr.name":".40 CPR capacitor bullet",
-  "rb40_ammo_count":"%ammo_count%",
-  "rb40_ammoampty_count":"%ammo_count%"
-}

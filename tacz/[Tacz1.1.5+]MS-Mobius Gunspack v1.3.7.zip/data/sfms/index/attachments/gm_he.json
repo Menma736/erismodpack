@@ -1,8 +1,0 @@
-{
-	"name": "sfms.attachment.gm_he.name",
-	"tooltip": "sfms.attachment.gm_he.tooltip",
-	"display": "sfms:gm_he_display",
-	"data": "sfms:gm_he_data",
-	"type": "extended_mag",
-    "sort": 24080
-}

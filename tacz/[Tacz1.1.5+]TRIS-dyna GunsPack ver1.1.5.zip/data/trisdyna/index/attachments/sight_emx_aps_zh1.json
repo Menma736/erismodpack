@@ -1,8 +1,0 @@
-{
-	"name": "trisdyna.attachment.sight_emx_aps_zh1.name",
-	"tooltip": "trisdyna.attachment.sight_emx_aps_zh1.tooltip",
-	"display": "trisdyna:sight_emx_aps_zh1_display",
-	"data": "trisdyna:sight_emx_aps_zh1_data",
-	"type": "scope",
-    "sort": 24040
-}

@@ -1,9 +1,0 @@
-{
-  "name": "sfms.gun.supersass.name",
-  "tooltip": "sfms.gun.supersass.desc",
-  "display": "sfms:supersass_display",
-  "data": "sfms:supersass_data",
-  //mg，sniper，rifle，pistol，smg，rpg，shotgun
-  "type": "sniper",
-  "sort": 24080
-}

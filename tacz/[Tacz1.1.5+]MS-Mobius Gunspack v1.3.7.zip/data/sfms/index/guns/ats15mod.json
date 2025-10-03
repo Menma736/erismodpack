@@ -1,8 +1,0 @@
-{
-  "name": "sfms.gun.ats15mod.name",
-  "tooltip": "sfms.gun.ats15mod.desc",
-  "display": "sfms:ats15mod_display",
-  "data": "sfms:ats15mod_data",
-  "type": "rifle",
-  "sort": 24080
-}

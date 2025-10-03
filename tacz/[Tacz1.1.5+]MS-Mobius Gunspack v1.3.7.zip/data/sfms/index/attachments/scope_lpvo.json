@@ -1,8 +1,0 @@
-{
-	"name": "sfms.attachment.scope_lpvo.name",
-	"tooltip": "sfms.attachment.scope_lpvo.tooltip",
-	"display": "sfms:scope_lpvo_display",
-	"data": "sfms:scope_lpvo_data",
-	"type": "scope",
-    "sort": 24080
-}

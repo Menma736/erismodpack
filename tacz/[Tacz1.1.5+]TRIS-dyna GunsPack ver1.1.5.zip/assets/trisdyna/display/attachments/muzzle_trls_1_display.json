@@ -1,7 +1,0 @@
-{
-  "slot": "trisdyna:attachment/slot/muzzle_trls_1",
-  "sounds": {
-    "install": "trisdyna:attachments/emxmag_h1",
-    "uninstall": "trisdyna:attachments/emxmag_h2"
-  }
-}

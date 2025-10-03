@@ -1,9 +1,0 @@
-{
-    "name": "trisdyna.gun.ch104.name",
-    "display": "trisdyna:ch104_display",
-    "tooltip": "trisdyna.ch104.desc",
-    "data": "trisdyna:ch104_data",
-	//mg，sniper，rifle，pistol，smg，rpg
-    "type": "rifle",
-    "sort": 24040
-}

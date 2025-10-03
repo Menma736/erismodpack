@@ -1,8 +1,0 @@
-{
-  "slot": "trisdyna:attachment/slot/stock_tris2",
-  "adapter": "oem_stock_tactical",
-  "sounds": {
-    "install": "trisdyna:attachments/emxmag_h1",
-    "uninstall": "trisdyna:attachments/emxmag_h2"
-  }
-}

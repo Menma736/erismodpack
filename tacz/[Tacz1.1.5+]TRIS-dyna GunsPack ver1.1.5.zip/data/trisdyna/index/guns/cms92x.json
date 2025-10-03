@@ -1,9 +1,0 @@
-{
-    "name": "trisdyna.gun.cms92x.name",
-    "display": "trisdyna:cms92x_display",
-    "tooltip": "trisdyna.cms92x.desc",
-    "data": "trisdyna:cms92x_data",
-	//mg，sniper，rifle，pistol，smg，rpg
-    "type": "smg",
-    "sort": 24040
-}

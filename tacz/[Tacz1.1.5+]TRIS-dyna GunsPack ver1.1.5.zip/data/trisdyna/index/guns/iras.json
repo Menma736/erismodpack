@@ -1,9 +1,0 @@
-{
-    "name": "trisdyna.gun.iras.name",
-    "display": "trisdyna:iras_display",
-    "tooltip": "trisdyna.iras.desc",
-    "data": "trisdyna:iras_data",
-	//mg，sniper，rifle，pistol，smg，rpg，shotgun
-    "type": "shotgun",
-    "sort": 24040
-}

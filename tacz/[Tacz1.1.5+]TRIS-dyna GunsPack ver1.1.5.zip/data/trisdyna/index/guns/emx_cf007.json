@@ -1,9 +1,0 @@
-{
-    "name": "trisdyna.gun.emx_cf007.name",
-    "display": "trisdyna:emx_cf007_display",
-    "tooltip": "trisdyna.gun.emx_cf007.desc",
-    "data": "trisdyna:emx_cf007_data",
-	//mg，sniper，rifle，pistol，smg，rpg
-    "type": "mg",
-    "sort": 24040
-}

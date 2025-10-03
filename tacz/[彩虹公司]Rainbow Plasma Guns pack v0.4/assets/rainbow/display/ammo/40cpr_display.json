@@ -1,9 +1,0 @@
-{
-  "model": "rainbow:ammo/40cpr",
-  "texture": "rainbow:ammo/uv/40cpr",
-  "slot": "rainbow:ammo/slot/40cpr",
-  "shell": {
-    "model": "rainbow:shell/40cpr_shell",
-    "texture": "rainbow:shell/40cpr_shell"
-  }
-}

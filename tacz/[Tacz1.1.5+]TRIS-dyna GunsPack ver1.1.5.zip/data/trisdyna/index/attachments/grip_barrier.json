@@ -1,8 +1,0 @@
-{
-  "name": "trisdyna.attachment.grip_barrier.name",
-  "tooltip": "trisdyna.attachment.grip_barrier.tooltip",
-  "display": "trisdyna:grip_barrier_display",
-  "data": "trisdyna:grip_barrier_data",
-  "type": "grip",
-  "sort": 24040
-}

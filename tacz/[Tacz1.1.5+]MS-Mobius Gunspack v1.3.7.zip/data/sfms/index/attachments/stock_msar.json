@@ -1,8 +1,0 @@
-{
-  "name": "sfms.attachment.stock_msar.name",
-  "tooltip": "sfms.attachment.stock_msar.tooltip",
-  "display": "sfms:stock_msar_display",
-  "data": "sfms:stock_msar_data",
-  "type": "stock",
-  "sort": 24080
-}

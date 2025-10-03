@@ -1,8 +1,0 @@
-{
-  "name": "trisdyna.attachment.stock_tris2.name",
-  "tooltip": "trisdyna.attachment.stock_tris2.tooltip",
-  "display": "trisdyna:stock_tris2_display",
-  "data": "trisdyna:stock_tris2_data",
-  "type": "stock",
-  "sort": 24040
-}

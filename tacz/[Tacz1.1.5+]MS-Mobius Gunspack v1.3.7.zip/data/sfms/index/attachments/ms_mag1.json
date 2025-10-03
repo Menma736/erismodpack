@@ -1,8 +1,0 @@
-{
-	"name": "sfms.attachment.ms_mag1.name",
-	"tooltip": "sfms.attachment.ms_mag1.tooltip",
-	"display": "sfms:ms_mag1_display",
-	"data": "sfms:ms_mag1_data",
-	"type": "extended_mag",
-    "sort": 24080
-}

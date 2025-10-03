@@ -1,7 +1,0 @@
-{
-  "name": "trisdyna.attachment.stock_tris_st2.name",
-  "tooltip": "trisdyna.attachment.stock_tris_st2.tooltip",
-  "display": "trisdyna:stock_tris_st2_display",
-  "data": "trisdyna:stock_tris2_data",
-  "type": "stock"
-}

@@ -1,8 +1,0 @@
-{
-  "name": "sfms.gun.lvsa_c_erode_lmg.name",
-  "tooltip": "sfms.gun.lvsa_c_erode_lmg.desc",
-  "display": "sfms:lvsa_c_erode_lmg_display",
-  "data": "sfms:lvsa_c_erode_lmg_data",
-  "type": "mg",
-  "sort": 24080
-}

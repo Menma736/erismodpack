@@ -1,8 +1,0 @@
-{
-	"name": "sfms.attachment.gbrs_rmr_msl3.name",
-	"tooltip": "sfms.attachment.gbrs_rmr_msl3.tooltip",
-	"display": "sfms:gbrs_rmr_msl3_display",
-	"data": "sfms:gbrs_rmr_msl3_data",
-	"type": "scope",
-    "sort": 24080
-}

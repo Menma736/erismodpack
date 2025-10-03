@@ -1,8 +1,0 @@
-{
-  "slot": "trisdyna:attachment/slot/muzzle_tris1",
-  "adapter": "sf_muzzle_d",
-  "sounds": {
-    "install": "trisdyna:attachments/emxmag_h1",
-    "uninstall": "trisdyna:attachments/emxmag_h2"
-  }
-}
